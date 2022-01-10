@@ -1,1 +1,4 @@
-
+{
+  "Button it always is disable on panel of calculator however digits 9 can enter from keyboard": "When calculator is run button always is disable on panel of calculator however digits 9 can enter from keyboard. It is unfriendly behavior for users",
+  "Pop-up with message “exception occurred” appear if click on panel under [=] button in calculator and calculator closes": "Pop-up with message “exception occurred” appear if click on panel under [=] button. Calculator closes after click [close] button of pop-up. It is unexpected behavior for users"
+ }

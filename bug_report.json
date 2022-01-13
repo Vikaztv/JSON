@@ -1,4 +1,13 @@
 {
-  "Button it always is disable on panel of calculator however digits 9 can enter from keyboard": "When calculator is run button always is disable on panel of calculator however digits 9 can enter from keyboard. It is unfriendly behavior for users",
-  "Pop-up with message “exception occurred” appear if click on panel under [=] button in calculator and calculator closes": "Pop-up with message “exception occurred” appear if click on panel under [=] button. Calculator closes after click [close] button of pop-up. It is unexpected behavior for users"
+  "Заголовок": "Короткое описание проблемы",
+  "Проект": "Название тестируемого проекта",
+  "Компонент приложения":"Название части или функции тестируемого продукта",
+   "Номер версии":"Версия, на которой была найдена ошибка",
+   "Критичность":"Наиболее распространена пятиуровневая система критичности",
+   "Приоритет":"Приоритет дефекта",
+   "Статус":"Статус бага",
+   "Автор ":"Создатель баг репорта",
+  "Назначен на":"Имя сотрудника, назначенного на решение проблемы",
+  "Описание":"Информация об окружении, на котором был найден баг",
+  "Прикрепленный файл":"Файл с логами"
  }
